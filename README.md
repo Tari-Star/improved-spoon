@@ -11,7 +11,6 @@
 ##  Table of Contents
 
 * [Demo](#demo)
-* [Technology](#technology)
 * [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
@@ -20,13 +19,15 @@
 
 ***HEROKU***
 * Deployed link:
+[https://improved-spoon.herokuapp.com/](https://improved-spoon.herokuapp.com/)
 
 ***GITHUB***
 
 * Repository link:
+[https://github.com/Tari-Star/improved-spoon](https://github.com/Tari-Star/improved-spoon)
 
 **_SCREENSHOT_**
-
+![shop](./client/src/assets/shop.png)
 
 ## Usage
 
